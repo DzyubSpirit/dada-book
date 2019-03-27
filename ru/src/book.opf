@@ -1,0 +1,1319 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/"
+		xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+		xmlns:opf="http://www.idpf.org/2007/opf"
+		xmlns:dcterms="http://purl.org/dc/terms/">
+		<dc:title>Защита от темных искусств. Путеводитель по миру паранормальных явлений</dc:title>
+		<dc:language>ru</dc:language>
+		<dc:identifier id="BookId" opf:scheme="UUID">3</dc:identifier>
+		<dc:description>«Защита от темных искусств» – увлекательный научно-популярный рассказ о паранормальном. Это вторая книга биолога Александра Панчина, лауреата премии «Просветитель» за «Сумму биотехнологии». Здесь описаны результаты сотен научных исследований, объясняющих, почему люди охотно верят, например, в мистических существ, экстрасенсов, астрологию и магию. Это своего рода практическое руководство, посвященное научному подходу к сверхъестественному. «Защита от темных искусств» поможет читателю не стать жертвой обмана и самообмана.</dc:description>
+		<dc:publisher>CORPUS</dc:publisher>
+		<dc:creator opf:file-as="Александр Юрьевич Панчин " opf:role="aut">Александр Юрьевич Панчин </dc:creator>
+		<dc:date>2019-03-27T09:10:35.000000+00:00</dc:date>
+		<dc:subject>science</dc:subject>
+		<dc:source>http://maxima-library.org/</dc:source>
+		<meta name="cover" content="coverImage" />
+	</metadata>
+
+	<manifest>
+		<item id="coverPage" href="CoverPage.html" media-type="application/xhtml+xml" />
+		<item id="coverImage" href="images/cover.jpg" media-type="image/jpeg" />
+		<item id="ncx" href="book.ncx" media-type="application/x-dtbncx+xml" />
+		<item id="i_001.png" href="img_1.png" media-type="image/png" />
+		<item id="i_002.png" href="img_2.png" media-type="image/png" />
+		<item id="i_003.png" href="img_3.png" media-type="image/png" />
+		<item id="i_004.png" href="img_4.png" media-type="image/png" />
+		<item id="i_005.png" href="img_5.png" media-type="image/png" />
+		<item id="i_006.png" href="img_6.png" media-type="image/png" />
+		<item id="i_007.png" href="img_7.png" media-type="image/png" />
+		<item id="i_008.png" href="img_8.png" media-type="image/png" />
+		<item id="i_009.png" href="img_9.png" media-type="image/png" />
+		<item id="i_010.png" href="img_10.png" media-type="image/png" />
+		<item id="i_011.png" href="img_11.png" media-type="image/png" />
+		<item id="i_012.png" href="img_12.png" media-type="image/png" />
+		<item id="i_013.png" href="img_13.png" media-type="image/png" />
+		<item id="i_014.png" href="img_14.png" media-type="image/png" />
+		<item id="chapter1" href="index.html" media-type="application/xhtml+xml" />
+		<item id="css_css" href="styles.css" media-type="text/css" />
+		<item id="LiberationSerifItalic" href="fonts/LiberationSerifItalic.ttf" media-type="application/x-font-ttf" />
+		<item id="LiberationSerifRegular" href="fonts/LiberationSerifRegular.ttf" media-type="application/x-font-ttf" />
+		<item id="chapter2" href="Chapter1.html" media-type="application/xhtml+xml" />
+		<item id="chapter3" href="Chapter2.html" media-type="application/xhtml+xml" />
+		<item id="chapter4" href="Chapter3.html" media-type="application/xhtml+xml" />
+		<item id="chapter5" href="Chapter4.html" media-type="application/xhtml+xml" />
+		<item id="chapter6" href="Chapter5.html" media-type="application/xhtml+xml" />
+		<item id="chapter7" href="Chapter6.html" media-type="application/xhtml+xml" />
+		<item id="chapter8" href="Chapter7.html" media-type="application/xhtml+xml" />
+		<item id="chapter9" href="Chapter8.html" media-type="application/xhtml+xml" />
+		<item id="chapter10" href="Chapter9.html" media-type="application/xhtml+xml" />
+		<item id="chapter11" href="Chapter10.html" media-type="application/xhtml+xml" />
+		<item id="chapter12" href="Chapter11.html" media-type="application/xhtml+xml" />
+		<item id="chapter13" href="Chapter12.html" media-type="application/xhtml+xml" />
+		<item id="chapter14" href="Chapter13.html" media-type="application/xhtml+xml" />
+		<item id="chapter15" href="Chapter14.html" media-type="application/xhtml+xml" />
+		<item id="chapter16" href="Chapter15.html" media-type="application/xhtml+xml" />
+		<item id="chapter17" href="Chapter16.html" media-type="application/xhtml+xml" />
+		<item id="chapter18" href="Chapter17.html" media-type="application/xhtml+xml" />
+		<item id="chapter19" href="Chapter18.html" media-type="application/xhtml+xml" />
+		<item id="chapter20" href="noten_1.html" media-type="application/xhtml+xml" />
+		<item id="chapter21" href="noten_2.html" media-type="application/xhtml+xml" />
+		<item id="chapter22" href="noten_3.html" media-type="application/xhtml+xml" />
+		<item id="chapter23" href="noten_4.html" media-type="application/xhtml+xml" />
+		<item id="chapter24" href="noten_5.html" media-type="application/xhtml+xml" />
+		<item id="chapter25" href="noten_6.html" media-type="application/xhtml+xml" />
+		<item id="chapter26" href="noten_7.html" media-type="application/xhtml+xml" />
+		<item id="chapter27" href="noten_8.html" media-type="application/xhtml+xml" />
+		<item id="chapter28" href="noten_9.html" media-type="application/xhtml+xml" />
+		<item id="chapter29" href="noten_10.html" media-type="application/xhtml+xml" />
+		<item id="chapter30" href="noten_11.html" media-type="application/xhtml+xml" />
+		<item id="chapter31" href="noten_12.html" media-type="application/xhtml+xml" />
+		<item id="chapter32" href="noten_13.html" media-type="application/xhtml+xml" />
+		<item id="chapter33" href="noten_14.html" media-type="application/xhtml+xml" />
+		<item id="chapter34" href="noten_15.html" media-type="application/xhtml+xml" />
+		<item id="chapter35" href="noten_16.html" media-type="application/xhtml+xml" />
+		<item id="chapter36" href="noten_17.html" media-type="application/xhtml+xml" />
+		<item id="chapter37" href="noten_18.html" media-type="application/xhtml+xml" />
+		<item id="chapter38" href="noten_19.html" media-type="application/xhtml+xml" />
+		<item id="chapter39" href="noten_20.html" media-type="application/xhtml+xml" />
+		<item id="chapter40" href="noten_21.html" media-type="application/xhtml+xml" />
+		<item id="chapter41" href="noten_22.html" media-type="application/xhtml+xml" />
+		<item id="chapter42" href="noten_23.html" media-type="application/xhtml+xml" />
+		<item id="chapter43" href="noten_24.html" media-type="application/xhtml+xml" />
+		<item id="chapter44" href="noten_25.html" media-type="application/xhtml+xml" />
+		<item id="chapter45" href="noten_26.html" media-type="application/xhtml+xml" />
+		<item id="chapter46" href="noten_27.html" media-type="application/xhtml+xml" />
+		<item id="chapter47" href="noten_28.html" media-type="application/xhtml+xml" />
+		<item id="chapter48" href="noten_29.html" media-type="application/xhtml+xml" />
+		<item id="chapter49" href="noten_30.html" media-type="application/xhtml+xml" />
+		<item id="chapter50" href="noten_31.html" media-type="application/xhtml+xml" />
+		<item id="chapter51" href="noten_32.html" media-type="application/xhtml+xml" />
+		<item id="chapter52" href="noten_33.html" media-type="application/xhtml+xml" />
+		<item id="chapter53" href="noten_34.html" media-type="application/xhtml+xml" />
+		<item id="chapter54" href="noten_35.html" media-type="application/xhtml+xml" />
+		<item id="chapter55" href="noten_36.html" media-type="application/xhtml+xml" />
+		<item id="chapter56" href="noten_37.html" media-type="application/xhtml+xml" />
+		<item id="chapter57" href="noten_38.html" media-type="application/xhtml+xml" />
+		<item id="chapter58" href="noten_39.html" media-type="application/xhtml+xml" />
+		<item id="chapter59" href="noten_40.html" media-type="application/xhtml+xml" />
+		<item id="chapter60" href="noten_41.html" media-type="application/xhtml+xml" />
+		<item id="chapter61" href="noten_42.html" media-type="application/xhtml+xml" />
+		<item id="chapter62" href="noten_43.html" media-type="application/xhtml+xml" />
+		<item id="chapter63" href="noten_44.html" media-type="application/xhtml+xml" />
+		<item id="chapter64" href="noten_45.html" media-type="application/xhtml+xml" />
+		<item id="chapter65" href="noten_46.html" media-type="application/xhtml+xml" />
+		<item id="chapter66" href="noten_47.html" media-type="application/xhtml+xml" />
+		<item id="chapter67" href="noten_48.html" media-type="application/xhtml+xml" />
+		<item id="chapter68" href="noten_49.html" media-type="application/xhtml+xml" />
+		<item id="chapter69" href="noten_50.html" media-type="application/xhtml+xml" />
+		<item id="chapter70" href="noten_51.html" media-type="application/xhtml+xml" />
+		<item id="chapter71" href="noten_52.html" media-type="application/xhtml+xml" />
+		<item id="chapter72" href="noten_53.html" media-type="application/xhtml+xml" />
+		<item id="chapter73" href="noten_54.html" media-type="application/xhtml+xml" />
+		<item id="chapter74" href="noten_55.html" media-type="application/xhtml+xml" />
+		<item id="chapter75" href="noten_56.html" media-type="application/xhtml+xml" />
+		<item id="chapter76" href="noten_57.html" media-type="application/xhtml+xml" />
+		<item id="chapter77" href="noten_58.html" media-type="application/xhtml+xml" />
+		<item id="chapter78" href="noten_59.html" media-type="application/xhtml+xml" />
+		<item id="chapter79" href="noten_60.html" media-type="application/xhtml+xml" />
+		<item id="chapter80" href="noten_61.html" media-type="application/xhtml+xml" />
+		<item id="chapter81" href="noten_62.html" media-type="application/xhtml+xml" />
+		<item id="chapter82" href="noten_63.html" media-type="application/xhtml+xml" />
+		<item id="chapter83" href="noten_64.html" media-type="application/xhtml+xml" />
+		<item id="chapter84" href="noten_65.html" media-type="application/xhtml+xml" />
+		<item id="chapter85" href="noten_66.html" media-type="application/xhtml+xml" />
+		<item id="chapter86" href="noten_67.html" media-type="application/xhtml+xml" />
+		<item id="chapter87" href="noten_68.html" media-type="application/xhtml+xml" />
+		<item id="chapter88" href="noten_69.html" media-type="application/xhtml+xml" />
+		<item id="chapter89" href="noten_70.html" media-type="application/xhtml+xml" />
+		<item id="chapter90" href="noten_71.html" media-type="application/xhtml+xml" />
+		<item id="chapter91" href="noten_72.html" media-type="application/xhtml+xml" />
+		<item id="chapter92" href="noten_73.html" media-type="application/xhtml+xml" />
+		<item id="chapter93" href="noten_74.html" media-type="application/xhtml+xml" />
+		<item id="chapter94" href="noten_75.html" media-type="application/xhtml+xml" />
+		<item id="chapter95" href="noten_76.html" media-type="application/xhtml+xml" />
+		<item id="chapter96" href="noten_77.html" media-type="application/xhtml+xml" />
+		<item id="chapter97" href="noten_78.html" media-type="application/xhtml+xml" />
+		<item id="chapter98" href="noten_79.html" media-type="application/xhtml+xml" />
+		<item id="chapter99" href="noten_80.html" media-type="application/xhtml+xml" />
+		<item id="chapter100" href="noten_81.html" media-type="application/xhtml+xml" />
+		<item id="chapter101" href="noten_82.html" media-type="application/xhtml+xml" />
+		<item id="chapter102" href="noten_83.html" media-type="application/xhtml+xml" />
+		<item id="chapter103" href="noten_84.html" media-type="application/xhtml+xml" />
+		<item id="chapter104" href="noten_85.html" media-type="application/xhtml+xml" />
+		<item id="chapter105" href="noten_86.html" media-type="application/xhtml+xml" />
+		<item id="chapter106" href="noten_87.html" media-type="application/xhtml+xml" />
+		<item id="chapter107" href="noten_88.html" media-type="application/xhtml+xml" />
+		<item id="chapter108" href="noten_89.html" media-type="application/xhtml+xml" />
+		<item id="chapter109" href="noten_90.html" media-type="application/xhtml+xml" />
+		<item id="chapter110" href="noten_91.html" media-type="application/xhtml+xml" />
+		<item id="chapter111" href="noten_92.html" media-type="application/xhtml+xml" />
+		<item id="chapter112" href="noten_93.html" media-type="application/xhtml+xml" />
+		<item id="chapter113" href="noten_94.html" media-type="application/xhtml+xml" />
+		<item id="chapter114" href="noten_95.html" media-type="application/xhtml+xml" />
+		<item id="chapter115" href="noten_96.html" media-type="application/xhtml+xml" />
+		<item id="chapter116" href="noten_97.html" media-type="application/xhtml+xml" />
+		<item id="chapter117" href="noten_98.html" media-type="application/xhtml+xml" />
+		<item id="chapter118" href="noten_99.html" media-type="application/xhtml+xml" />
+		<item id="chapter119" href="noten_100.html" media-type="application/xhtml+xml" />
+		<item id="chapter120" href="noten_101.html" media-type="application/xhtml+xml" />
+		<item id="chapter121" href="noten_102.html" media-type="application/xhtml+xml" />
+		<item id="chapter122" href="noten_103.html" media-type="application/xhtml+xml" />
+		<item id="chapter123" href="noten_104.html" media-type="application/xhtml+xml" />
+		<item id="chapter124" href="noten_105.html" media-type="application/xhtml+xml" />
+		<item id="chapter125" href="noten_106.html" media-type="application/xhtml+xml" />
+		<item id="chapter126" href="noten_107.html" media-type="application/xhtml+xml" />
+		<item id="chapter127" href="noten_108.html" media-type="application/xhtml+xml" />
+		<item id="chapter128" href="noten_109.html" media-type="application/xhtml+xml" />
+		<item id="chapter129" href="noten_110.html" media-type="application/xhtml+xml" />
+		<item id="chapter130" href="noten_111.html" media-type="application/xhtml+xml" />
+		<item id="chapter131" href="noten_112.html" media-type="application/xhtml+xml" />
+		<item id="chapter132" href="noten_113.html" media-type="application/xhtml+xml" />
+		<item id="chapter133" href="noten_114.html" media-type="application/xhtml+xml" />
+		<item id="chapter134" href="noten_115.html" media-type="application/xhtml+xml" />
+		<item id="chapter135" href="noten_116.html" media-type="application/xhtml+xml" />
+		<item id="chapter136" href="noten_117.html" media-type="application/xhtml+xml" />
+		<item id="chapter137" href="noten_118.html" media-type="application/xhtml+xml" />
+		<item id="chapter138" href="noten_119.html" media-type="application/xhtml+xml" />
+		<item id="chapter139" href="noten_120.html" media-type="application/xhtml+xml" />
+		<item id="chapter140" href="noten_121.html" media-type="application/xhtml+xml" />
+		<item id="chapter141" href="noten_122.html" media-type="application/xhtml+xml" />
+		<item id="chapter142" href="noten_123.html" media-type="application/xhtml+xml" />
+		<item id="chapter143" href="noten_124.html" media-type="application/xhtml+xml" />
+		<item id="chapter144" href="noten_125.html" media-type="application/xhtml+xml" />
+		<item id="chapter145" href="noten_126.html" media-type="application/xhtml+xml" />
+		<item id="chapter146" href="noten_127.html" media-type="application/xhtml+xml" />
+		<item id="chapter147" href="noten_128.html" media-type="application/xhtml+xml" />
+		<item id="chapter148" href="noten_129.html" media-type="application/xhtml+xml" />
+		<item id="chapter149" href="noten_130.html" media-type="application/xhtml+xml" />
+		<item id="chapter150" href="noten_131.html" media-type="application/xhtml+xml" />
+		<item id="chapter151" href="noten_132.html" media-type="application/xhtml+xml" />
+		<item id="chapter152" href="noten_133.html" media-type="application/xhtml+xml" />
+		<item id="chapter153" href="noten_134.html" media-type="application/xhtml+xml" />
+		<item id="chapter154" href="noten_135.html" media-type="application/xhtml+xml" />
+		<item id="chapter155" href="noten_136.html" media-type="application/xhtml+xml" />
+		<item id="chapter156" href="noten_137.html" media-type="application/xhtml+xml" />
+		<item id="chapter157" href="noten_138.html" media-type="application/xhtml+xml" />
+		<item id="chapter158" href="noten_139.html" media-type="application/xhtml+xml" />
+		<item id="chapter159" href="noten_140.html" media-type="application/xhtml+xml" />
+		<item id="chapter160" href="noten_141.html" media-type="application/xhtml+xml" />
+		<item id="chapter161" href="noten_142.html" media-type="application/xhtml+xml" />
+		<item id="chapter162" href="noten_143.html" media-type="application/xhtml+xml" />
+		<item id="chapter163" href="noten_144.html" media-type="application/xhtml+xml" />
+		<item id="chapter164" href="noten_145.html" media-type="application/xhtml+xml" />
+		<item id="chapter165" href="noten_146.html" media-type="application/xhtml+xml" />
+		<item id="chapter166" href="noten_147.html" media-type="application/xhtml+xml" />
+		<item id="chapter167" href="noten_148.html" media-type="application/xhtml+xml" />
+		<item id="chapter168" href="noten_149.html" media-type="application/xhtml+xml" />
+		<item id="chapter169" href="noten_150.html" media-type="application/xhtml+xml" />
+		<item id="chapter170" href="noten_151.html" media-type="application/xhtml+xml" />
+		<item id="chapter171" href="noten_152.html" media-type="application/xhtml+xml" />
+		<item id="chapter172" href="noten_153.html" media-type="application/xhtml+xml" />
+		<item id="chapter173" href="noten_154.html" media-type="application/xhtml+xml" />
+		<item id="chapter174" href="noten_155.html" media-type="application/xhtml+xml" />
+		<item id="chapter175" href="noten_156.html" media-type="application/xhtml+xml" />
+		<item id="chapter176" href="noten_157.html" media-type="application/xhtml+xml" />
+		<item id="chapter177" href="noten_158.html" media-type="application/xhtml+xml" />
+		<item id="chapter178" href="noten_159.html" media-type="application/xhtml+xml" />
+		<item id="chapter179" href="noten_160.html" media-type="application/xhtml+xml" />
+		<item id="chapter180" href="noten_161.html" media-type="application/xhtml+xml" />
+		<item id="chapter181" href="noten_162.html" media-type="application/xhtml+xml" />
+		<item id="chapter182" href="noten_163.html" media-type="application/xhtml+xml" />
+		<item id="chapter183" href="noten_164.html" media-type="application/xhtml+xml" />
+		<item id="chapter184" href="noten_165.html" media-type="application/xhtml+xml" />
+		<item id="chapter185" href="noten_166.html" media-type="application/xhtml+xml" />
+		<item id="chapter186" href="noten_167.html" media-type="application/xhtml+xml" />
+		<item id="chapter187" href="noten_168.html" media-type="application/xhtml+xml" />
+		<item id="chapter188" href="noten_169.html" media-type="application/xhtml+xml" />
+		<item id="chapter189" href="noten_170.html" media-type="application/xhtml+xml" />
+		<item id="chapter190" href="noten_171.html" media-type="application/xhtml+xml" />
+		<item id="chapter191" href="noten_172.html" media-type="application/xhtml+xml" />
+		<item id="chapter192" href="noten_173.html" media-type="application/xhtml+xml" />
+		<item id="chapter193" href="noten_174.html" media-type="application/xhtml+xml" />
+		<item id="chapter194" href="noten_175.html" media-type="application/xhtml+xml" />
+		<item id="chapter195" href="noten_176.html" media-type="application/xhtml+xml" />
+		<item id="chapter196" href="noten_177.html" media-type="application/xhtml+xml" />
+		<item id="chapter197" href="noten_178.html" media-type="application/xhtml+xml" />
+		<item id="chapter198" href="noten_179.html" media-type="application/xhtml+xml" />
+		<item id="chapter199" href="noten_180.html" media-type="application/xhtml+xml" />
+		<item id="chapter200" href="noten_181.html" media-type="application/xhtml+xml" />
+		<item id="chapter201" href="noten_182.html" media-type="application/xhtml+xml" />
+		<item id="chapter202" href="noten_183.html" media-type="application/xhtml+xml" />
+		<item id="chapter203" href="noten_184.html" media-type="application/xhtml+xml" />
+		<item id="chapter204" href="noten_185.html" media-type="application/xhtml+xml" />
+		<item id="chapter205" href="noten_186.html" media-type="application/xhtml+xml" />
+		<item id="chapter206" href="noten_187.html" media-type="application/xhtml+xml" />
+		<item id="chapter207" href="noten_188.html" media-type="application/xhtml+xml" />
+		<item id="chapter208" href="noten_189.html" media-type="application/xhtml+xml" />
+		<item id="chapter209" href="noten_190.html" media-type="application/xhtml+xml" />
+		<item id="chapter210" href="noten_191.html" media-type="application/xhtml+xml" />
+		<item id="chapter211" href="noten_192.html" media-type="application/xhtml+xml" />
+		<item id="chapter212" href="noten_193.html" media-type="application/xhtml+xml" />
+		<item id="chapter213" href="noten_194.html" media-type="application/xhtml+xml" />
+		<item id="chapter214" href="noten_195.html" media-type="application/xhtml+xml" />
+		<item id="chapter215" href="noten_196.html" media-type="application/xhtml+xml" />
+		<item id="chapter216" href="noten_197.html" media-type="application/xhtml+xml" />
+		<item id="chapter217" href="noten_198.html" media-type="application/xhtml+xml" />
+		<item id="chapter218" href="noten_199.html" media-type="application/xhtml+xml" />
+		<item id="chapter219" href="noten_200.html" media-type="application/xhtml+xml" />
+		<item id="chapter220" href="noten_201.html" media-type="application/xhtml+xml" />
+		<item id="chapter221" href="noten_202.html" media-type="application/xhtml+xml" />
+		<item id="chapter222" href="noten_203.html" media-type="application/xhtml+xml" />
+		<item id="chapter223" href="noten_204.html" media-type="application/xhtml+xml" />
+		<item id="chapter224" href="noten_205.html" media-type="application/xhtml+xml" />
+		<item id="chapter225" href="noten_206.html" media-type="application/xhtml+xml" />
+		<item id="chapter226" href="noten_207.html" media-type="application/xhtml+xml" />
+		<item id="chapter227" href="noten_208.html" media-type="application/xhtml+xml" />
+		<item id="chapter228" href="noten_209.html" media-type="application/xhtml+xml" />
+		<item id="chapter229" href="noten_210.html" media-type="application/xhtml+xml" />
+		<item id="chapter230" href="noten_211.html" media-type="application/xhtml+xml" />
+		<item id="chapter231" href="noten_212.html" media-type="application/xhtml+xml" />
+		<item id="chapter232" href="noten_213.html" media-type="application/xhtml+xml" />
+		<item id="chapter233" href="noten_214.html" media-type="application/xhtml+xml" />
+		<item id="chapter234" href="noten_215.html" media-type="application/xhtml+xml" />
+		<item id="chapter235" href="noten_216.html" media-type="application/xhtml+xml" />
+		<item id="chapter236" href="noten_217.html" media-type="application/xhtml+xml" />
+		<item id="chapter237" href="noten_218.html" media-type="application/xhtml+xml" />
+		<item id="chapter238" href="noten_219.html" media-type="application/xhtml+xml" />
+		<item id="chapter239" href="noten_220.html" media-type="application/xhtml+xml" />
+		<item id="chapter240" href="noten_221.html" media-type="application/xhtml+xml" />
+		<item id="chapter241" href="noten_222.html" media-type="application/xhtml+xml" />
+		<item id="chapter242" href="noten_223.html" media-type="application/xhtml+xml" />
+		<item id="chapter243" href="noten_224.html" media-type="application/xhtml+xml" />
+		<item id="chapter244" href="noten_225.html" media-type="application/xhtml+xml" />
+		<item id="chapter245" href="noten_226.html" media-type="application/xhtml+xml" />
+		<item id="chapter246" href="noten_227.html" media-type="application/xhtml+xml" />
+		<item id="chapter247" href="noten_228.html" media-type="application/xhtml+xml" />
+		<item id="chapter248" href="noten_229.html" media-type="application/xhtml+xml" />
+		<item id="chapter249" href="noten_230.html" media-type="application/xhtml+xml" />
+		<item id="chapter250" href="noten_231.html" media-type="application/xhtml+xml" />
+		<item id="chapter251" href="noten_232.html" media-type="application/xhtml+xml" />
+		<item id="chapter252" href="noten_233.html" media-type="application/xhtml+xml" />
+		<item id="chapter253" href="noten_234.html" media-type="application/xhtml+xml" />
+		<item id="chapter254" href="noten_235.html" media-type="application/xhtml+xml" />
+		<item id="chapter255" href="noten_236.html" media-type="application/xhtml+xml" />
+		<item id="chapter256" href="noten_237.html" media-type="application/xhtml+xml" />
+		<item id="chapter257" href="noten_238.html" media-type="application/xhtml+xml" />
+		<item id="chapter258" href="noten_239.html" media-type="application/xhtml+xml" />
+		<item id="chapter259" href="noten_240.html" media-type="application/xhtml+xml" />
+		<item id="chapter260" href="noten_241.html" media-type="application/xhtml+xml" />
+		<item id="chapter261" href="noten_242.html" media-type="application/xhtml+xml" />
+		<item id="chapter262" href="noten_243.html" media-type="application/xhtml+xml" />
+		<item id="chapter263" href="noten_244.html" media-type="application/xhtml+xml" />
+		<item id="chapter264" href="noten_245.html" media-type="application/xhtml+xml" />
+		<item id="chapter265" href="noten_246.html" media-type="application/xhtml+xml" />
+		<item id="chapter266" href="noten_247.html" media-type="application/xhtml+xml" />
+		<item id="chapter267" href="noten_248.html" media-type="application/xhtml+xml" />
+		<item id="chapter268" href="noten_249.html" media-type="application/xhtml+xml" />
+		<item id="chapter269" href="noten_250.html" media-type="application/xhtml+xml" />
+		<item id="chapter270" href="noten_251.html" media-type="application/xhtml+xml" />
+		<item id="chapter271" href="noten_252.html" media-type="application/xhtml+xml" />
+		<item id="chapter272" href="noten_253.html" media-type="application/xhtml+xml" />
+		<item id="chapter273" href="noten_254.html" media-type="application/xhtml+xml" />
+		<item id="chapter274" href="noten_255.html" media-type="application/xhtml+xml" />
+		<item id="chapter275" href="noten_256.html" media-type="application/xhtml+xml" />
+		<item id="chapter276" href="noten_257.html" media-type="application/xhtml+xml" />
+		<item id="chapter277" href="noten_258.html" media-type="application/xhtml+xml" />
+		<item id="chapter278" href="noten_259.html" media-type="application/xhtml+xml" />
+		<item id="chapter279" href="noten_260.html" media-type="application/xhtml+xml" />
+		<item id="chapter280" href="noten_261.html" media-type="application/xhtml+xml" />
+		<item id="chapter281" href="noten_262.html" media-type="application/xhtml+xml" />
+		<item id="chapter282" href="noten_263.html" media-type="application/xhtml+xml" />
+		<item id="chapter283" href="noten_264.html" media-type="application/xhtml+xml" />
+		<item id="chapter284" href="noten_265.html" media-type="application/xhtml+xml" />
+		<item id="chapter285" href="noten_266.html" media-type="application/xhtml+xml" />
+		<item id="chapter286" href="noten_267.html" media-type="application/xhtml+xml" />
+		<item id="chapter287" href="noten_268.html" media-type="application/xhtml+xml" />
+		<item id="chapter288" href="noten_269.html" media-type="application/xhtml+xml" />
+		<item id="chapter289" href="noten_270.html" media-type="application/xhtml+xml" />
+		<item id="chapter290" href="noten_271.html" media-type="application/xhtml+xml" />
+		<item id="chapter291" href="noten_272.html" media-type="application/xhtml+xml" />
+		<item id="chapter292" href="noten_273.html" media-type="application/xhtml+xml" />
+		<item id="chapter293" href="noten_274.html" media-type="application/xhtml+xml" />
+		<item id="chapter294" href="noten_275.html" media-type="application/xhtml+xml" />
+		<item id="chapter295" href="noten_276.html" media-type="application/xhtml+xml" />
+		<item id="chapter296" href="noten_277.html" media-type="application/xhtml+xml" />
+		<item id="chapter297" href="noten_278.html" media-type="application/xhtml+xml" />
+		<item id="chapter298" href="noten_279.html" media-type="application/xhtml+xml" />
+		<item id="chapter299" href="noten_280.html" media-type="application/xhtml+xml" />
+		<item id="chapter300" href="noten_281.html" media-type="application/xhtml+xml" />
+		<item id="chapter301" href="noten_282.html" media-type="application/xhtml+xml" />
+		<item id="chapter302" href="noten_283.html" media-type="application/xhtml+xml" />
+		<item id="chapter303" href="noten_284.html" media-type="application/xhtml+xml" />
+		<item id="chapter304" href="noten_285.html" media-type="application/xhtml+xml" />
+		<item id="chapter305" href="noten_286.html" media-type="application/xhtml+xml" />
+		<item id="chapter306" href="noten_287.html" media-type="application/xhtml+xml" />
+		<item id="chapter307" href="noten_288.html" media-type="application/xhtml+xml" />
+		<item id="chapter308" href="noten_289.html" media-type="application/xhtml+xml" />
+		<item id="chapter309" href="noten_290.html" media-type="application/xhtml+xml" />
+		<item id="chapter310" href="noten_291.html" media-type="application/xhtml+xml" />
+		<item id="chapter311" href="noten_292.html" media-type="application/xhtml+xml" />
+		<item id="chapter312" href="noten_293.html" media-type="application/xhtml+xml" />
+		<item id="chapter313" href="noten_294.html" media-type="application/xhtml+xml" />
+		<item id="chapter314" href="noten_295.html" media-type="application/xhtml+xml" />
+		<item id="chapter315" href="noten_296.html" media-type="application/xhtml+xml" />
+		<item id="chapter316" href="noten_297.html" media-type="application/xhtml+xml" />
+		<item id="chapter317" href="noten_298.html" media-type="application/xhtml+xml" />
+		<item id="chapter318" href="noten_299.html" media-type="application/xhtml+xml" />
+		<item id="chapter319" href="noten_300.html" media-type="application/xhtml+xml" />
+		<item id="chapter320" href="noten_301.html" media-type="application/xhtml+xml" />
+		<item id="chapter321" href="noten_302.html" media-type="application/xhtml+xml" />
+		<item id="chapter322" href="noten_303.html" media-type="application/xhtml+xml" />
+		<item id="chapter323" href="noten_304.html" media-type="application/xhtml+xml" />
+		<item id="chapter324" href="noten_305.html" media-type="application/xhtml+xml" />
+		<item id="chapter325" href="noten_306.html" media-type="application/xhtml+xml" />
+		<item id="chapter326" href="noten_307.html" media-type="application/xhtml+xml" />
+		<item id="chapter327" href="noten_308.html" media-type="application/xhtml+xml" />
+		<item id="chapter328" href="noten_309.html" media-type="application/xhtml+xml" />
+		<item id="chapter329" href="noten_310.html" media-type="application/xhtml+xml" />
+		<item id="chapter330" href="noten_311.html" media-type="application/xhtml+xml" />
+		<item id="chapter331" href="noten_312.html" media-type="application/xhtml+xml" />
+		<item id="chapter332" href="noten_313.html" media-type="application/xhtml+xml" />
+		<item id="chapter333" href="noten_314.html" media-type="application/xhtml+xml" />
+		<item id="chapter334" href="noten_315.html" media-type="application/xhtml+xml" />
+		<item id="chapter335" href="noten_316.html" media-type="application/xhtml+xml" />
+		<item id="chapter336" href="noten_317.html" media-type="application/xhtml+xml" />
+		<item id="chapter337" href="noten_318.html" media-type="application/xhtml+xml" />
+		<item id="chapter338" href="noten_319.html" media-type="application/xhtml+xml" />
+		<item id="chapter339" href="noten_320.html" media-type="application/xhtml+xml" />
+		<item id="chapter340" href="noten_321.html" media-type="application/xhtml+xml" />
+		<item id="chapter341" href="noten_322.html" media-type="application/xhtml+xml" />
+		<item id="chapter342" href="noten_323.html" media-type="application/xhtml+xml" />
+		<item id="chapter343" href="noten_324.html" media-type="application/xhtml+xml" />
+		<item id="chapter344" href="noten_325.html" media-type="application/xhtml+xml" />
+		<item id="chapter345" href="noten_326.html" media-type="application/xhtml+xml" />
+		<item id="chapter346" href="noten_327.html" media-type="application/xhtml+xml" />
+		<item id="chapter347" href="noten_328.html" media-type="application/xhtml+xml" />
+		<item id="chapter348" href="noten_329.html" media-type="application/xhtml+xml" />
+		<item id="chapter349" href="noten_330.html" media-type="application/xhtml+xml" />
+		<item id="chapter350" href="noten_331.html" media-type="application/xhtml+xml" />
+		<item id="chapter351" href="noten_332.html" media-type="application/xhtml+xml" />
+		<item id="chapter352" href="noten_333.html" media-type="application/xhtml+xml" />
+		<item id="chapter353" href="noten_334.html" media-type="application/xhtml+xml" />
+		<item id="chapter354" href="noten_335.html" media-type="application/xhtml+xml" />
+		<item id="chapter355" href="noten_336.html" media-type="application/xhtml+xml" />
+		<item id="chapter356" href="noten_337.html" media-type="application/xhtml+xml" />
+		<item id="chapter357" href="noten_338.html" media-type="application/xhtml+xml" />
+		<item id="chapter358" href="noten_339.html" media-type="application/xhtml+xml" />
+		<item id="chapter359" href="noten_340.html" media-type="application/xhtml+xml" />
+		<item id="chapter360" href="noten_341.html" media-type="application/xhtml+xml" />
+		<item id="chapter361" href="noten_342.html" media-type="application/xhtml+xml" />
+		<item id="chapter362" href="noten_343.html" media-type="application/xhtml+xml" />
+		<item id="chapter363" href="noten_344.html" media-type="application/xhtml+xml" />
+		<item id="chapter364" href="noten_345.html" media-type="application/xhtml+xml" />
+		<item id="chapter365" href="noten_346.html" media-type="application/xhtml+xml" />
+		<item id="chapter366" href="noten_347.html" media-type="application/xhtml+xml" />
+		<item id="chapter367" href="noten_348.html" media-type="application/xhtml+xml" />
+		<item id="chapter368" href="noten_349.html" media-type="application/xhtml+xml" />
+		<item id="chapter369" href="noten_350.html" media-type="application/xhtml+xml" />
+		<item id="chapter370" href="noten_351.html" media-type="application/xhtml+xml" />
+		<item id="chapter371" href="noten_352.html" media-type="application/xhtml+xml" />
+		<item id="chapter372" href="noten_353.html" media-type="application/xhtml+xml" />
+		<item id="chapter373" href="noten_354.html" media-type="application/xhtml+xml" />
+		<item id="chapter374" href="noten_355.html" media-type="application/xhtml+xml" />
+		<item id="chapter375" href="noten_356.html" media-type="application/xhtml+xml" />
+		<item id="chapter376" href="noten_357.html" media-type="application/xhtml+xml" />
+		<item id="chapter377" href="noten_358.html" media-type="application/xhtml+xml" />
+		<item id="chapter378" href="noten_359.html" media-type="application/xhtml+xml" />
+		<item id="chapter379" href="noten_360.html" media-type="application/xhtml+xml" />
+		<item id="chapter380" href="noten_361.html" media-type="application/xhtml+xml" />
+		<item id="chapter381" href="noten_362.html" media-type="application/xhtml+xml" />
+		<item id="chapter382" href="noten_363.html" media-type="application/xhtml+xml" />
+		<item id="chapter383" href="noten_364.html" media-type="application/xhtml+xml" />
+		<item id="chapter384" href="noten_365.html" media-type="application/xhtml+xml" />
+		<item id="chapter385" href="noten_366.html" media-type="application/xhtml+xml" />
+		<item id="chapter386" href="noten_367.html" media-type="application/xhtml+xml" />
+		<item id="chapter387" href="noten_368.html" media-type="application/xhtml+xml" />
+		<item id="chapter388" href="noten_369.html" media-type="application/xhtml+xml" />
+		<item id="chapter389" href="noten_370.html" media-type="application/xhtml+xml" />
+		<item id="chapter390" href="noten_371.html" media-type="application/xhtml+xml" />
+		<item id="chapter391" href="noten_372.html" media-type="application/xhtml+xml" />
+		<item id="chapter392" href="noten_373.html" media-type="application/xhtml+xml" />
+		<item id="chapter393" href="noten_374.html" media-type="application/xhtml+xml" />
+		<item id="chapter394" href="noten_375.html" media-type="application/xhtml+xml" />
+		<item id="chapter395" href="noten_376.html" media-type="application/xhtml+xml" />
+		<item id="chapter396" href="noten_377.html" media-type="application/xhtml+xml" />
+		<item id="chapter397" href="noten_378.html" media-type="application/xhtml+xml" />
+		<item id="chapter398" href="noten_379.html" media-type="application/xhtml+xml" />
+		<item id="chapter399" href="noten_380.html" media-type="application/xhtml+xml" />
+		<item id="chapter400" href="noten_381.html" media-type="application/xhtml+xml" />
+		<item id="chapter401" href="noten_382.html" media-type="application/xhtml+xml" />
+		<item id="chapter402" href="noten_383.html" media-type="application/xhtml+xml" />
+		<item id="chapter403" href="noten_384.html" media-type="application/xhtml+xml" />
+		<item id="chapter404" href="noten_385.html" media-type="application/xhtml+xml" />
+		<item id="chapter405" href="noten_386.html" media-type="application/xhtml+xml" />
+		<item id="chapter406" href="noten_387.html" media-type="application/xhtml+xml" />
+		<item id="chapter407" href="noten_388.html" media-type="application/xhtml+xml" />
+		<item id="chapter408" href="noten_389.html" media-type="application/xhtml+xml" />
+		<item id="chapter409" href="noten_390.html" media-type="application/xhtml+xml" />
+		<item id="chapter410" href="noten_391.html" media-type="application/xhtml+xml" />
+		<item id="chapter411" href="noten_392.html" media-type="application/xhtml+xml" />
+		<item id="chapter412" href="noten_393.html" media-type="application/xhtml+xml" />
+		<item id="chapter413" href="noten_394.html" media-type="application/xhtml+xml" />
+		<item id="chapter414" href="noten_395.html" media-type="application/xhtml+xml" />
+		<item id="chapter415" href="noten_396.html" media-type="application/xhtml+xml" />
+		<item id="chapter416" href="noten_397.html" media-type="application/xhtml+xml" />
+		<item id="chapter417" href="noten_398.html" media-type="application/xhtml+xml" />
+		<item id="chapter418" href="noten_399.html" media-type="application/xhtml+xml" />
+		<item id="chapter419" href="noten_400.html" media-type="application/xhtml+xml" />
+		<item id="chapter420" href="noten_401.html" media-type="application/xhtml+xml" />
+		<item id="chapter421" href="noten_402.html" media-type="application/xhtml+xml" />
+		<item id="chapter422" href="noten_403.html" media-type="application/xhtml+xml" />
+		<item id="chapter423" href="noten_404.html" media-type="application/xhtml+xml" />
+		<item id="chapter424" href="noten_405.html" media-type="application/xhtml+xml" />
+		<item id="chapter425" href="noten_406.html" media-type="application/xhtml+xml" />
+		<item id="chapter426" href="noten_407.html" media-type="application/xhtml+xml" />
+		<item id="chapter427" href="noten_408.html" media-type="application/xhtml+xml" />
+		<item id="chapter428" href="noten_409.html" media-type="application/xhtml+xml" />
+		<item id="chapter429" href="noten_410.html" media-type="application/xhtml+xml" />
+		<item id="chapter430" href="noten_411.html" media-type="application/xhtml+xml" />
+		<item id="chapter431" href="noten_412.html" media-type="application/xhtml+xml" />
+		<item id="chapter432" href="noten_413.html" media-type="application/xhtml+xml" />
+		<item id="chapter433" href="noten_414.html" media-type="application/xhtml+xml" />
+		<item id="chapter434" href="noten_415.html" media-type="application/xhtml+xml" />
+		<item id="chapter435" href="noten_416.html" media-type="application/xhtml+xml" />
+		<item id="chapter436" href="noten_417.html" media-type="application/xhtml+xml" />
+		<item id="chapter437" href="noten_418.html" media-type="application/xhtml+xml" />
+		<item id="chapter438" href="noten_419.html" media-type="application/xhtml+xml" />
+		<item id="chapter439" href="noten_420.html" media-type="application/xhtml+xml" />
+		<item id="chapter440" href="noten_421.html" media-type="application/xhtml+xml" />
+		<item id="chapter441" href="noten_422.html" media-type="application/xhtml+xml" />
+		<item id="chapter442" href="noten_423.html" media-type="application/xhtml+xml" />
+		<item id="chapter443" href="noten_424.html" media-type="application/xhtml+xml" />
+		<item id="chapter444" href="noten_425.html" media-type="application/xhtml+xml" />
+		<item id="chapter445" href="noten_426.html" media-type="application/xhtml+xml" />
+		<item id="chapter446" href="noten_427.html" media-type="application/xhtml+xml" />
+		<item id="chapter447" href="noten_428.html" media-type="application/xhtml+xml" />
+		<item id="chapter448" href="noten_429.html" media-type="application/xhtml+xml" />
+		<item id="chapter449" href="noten_430.html" media-type="application/xhtml+xml" />
+		<item id="chapter450" href="noten_431.html" media-type="application/xhtml+xml" />
+		<item id="chapter451" href="noten_432.html" media-type="application/xhtml+xml" />
+		<item id="chapter452" href="noten_433.html" media-type="application/xhtml+xml" />
+		<item id="chapter453" href="noten_434.html" media-type="application/xhtml+xml" />
+		<item id="chapter454" href="noten_435.html" media-type="application/xhtml+xml" />
+		<item id="chapter455" href="noten_436.html" media-type="application/xhtml+xml" />
+		<item id="chapter456" href="noten_437.html" media-type="application/xhtml+xml" />
+		<item id="chapter457" href="noten_438.html" media-type="application/xhtml+xml" />
+		<item id="chapter458" href="noten_439.html" media-type="application/xhtml+xml" />
+		<item id="chapter459" href="noten_440.html" media-type="application/xhtml+xml" />
+		<item id="chapter460" href="noten_441.html" media-type="application/xhtml+xml" />
+		<item id="chapter461" href="noten_442.html" media-type="application/xhtml+xml" />
+		<item id="chapter462" href="noten_443.html" media-type="application/xhtml+xml" />
+		<item id="chapter463" href="noten_444.html" media-type="application/xhtml+xml" />
+		<item id="chapter464" href="noten_445.html" media-type="application/xhtml+xml" />
+		<item id="chapter465" href="noten_446.html" media-type="application/xhtml+xml" />
+		<item id="chapter466" href="noten_447.html" media-type="application/xhtml+xml" />
+		<item id="chapter467" href="noten_448.html" media-type="application/xhtml+xml" />
+		<item id="chapter468" href="noten_449.html" media-type="application/xhtml+xml" />
+		<item id="chapter469" href="noten_450.html" media-type="application/xhtml+xml" />
+		<item id="chapter470" href="noten_451.html" media-type="application/xhtml+xml" />
+		<item id="chapter471" href="noten_452.html" media-type="application/xhtml+xml" />
+		<item id="chapter472" href="noten_453.html" media-type="application/xhtml+xml" />
+		<item id="chapter473" href="noten_454.html" media-type="application/xhtml+xml" />
+		<item id="chapter474" href="noten_455.html" media-type="application/xhtml+xml" />
+		<item id="chapter475" href="noten_456.html" media-type="application/xhtml+xml" />
+		<item id="chapter476" href="noten_457.html" media-type="application/xhtml+xml" />
+		<item id="chapter477" href="noten_458.html" media-type="application/xhtml+xml" />
+		<item id="chapter478" href="noten_459.html" media-type="application/xhtml+xml" />
+		<item id="chapter479" href="noten_460.html" media-type="application/xhtml+xml" />
+		<item id="chapter480" href="noten_461.html" media-type="application/xhtml+xml" />
+		<item id="chapter481" href="noten_462.html" media-type="application/xhtml+xml" />
+		<item id="chapter482" href="noten_463.html" media-type="application/xhtml+xml" />
+		<item id="chapter483" href="noten_464.html" media-type="application/xhtml+xml" />
+		<item id="chapter484" href="noten_465.html" media-type="application/xhtml+xml" />
+		<item id="chapter485" href="noten_466.html" media-type="application/xhtml+xml" />
+		<item id="chapter486" href="noten_467.html" media-type="application/xhtml+xml" />
+		<item id="chapter487" href="noten_468.html" media-type="application/xhtml+xml" />
+		<item id="chapter488" href="noten_469.html" media-type="application/xhtml+xml" />
+		<item id="chapter489" href="noten_470.html" media-type="application/xhtml+xml" />
+		<item id="chapter490" href="noten_471.html" media-type="application/xhtml+xml" />
+		<item id="chapter491" href="noten_472.html" media-type="application/xhtml+xml" />
+		<item id="chapter492" href="noten_473.html" media-type="application/xhtml+xml" />
+		<item id="chapter493" href="noten_474.html" media-type="application/xhtml+xml" />
+		<item id="chapter494" href="noten_475.html" media-type="application/xhtml+xml" />
+		<item id="chapter495" href="noten_476.html" media-type="application/xhtml+xml" />
+		<item id="chapter496" href="noten_477.html" media-type="application/xhtml+xml" />
+		<item id="chapter497" href="noten_478.html" media-type="application/xhtml+xml" />
+		<item id="chapter498" href="noten_479.html" media-type="application/xhtml+xml" />
+		<item id="chapter499" href="noten_480.html" media-type="application/xhtml+xml" />
+		<item id="chapter500" href="noten_481.html" media-type="application/xhtml+xml" />
+		<item id="chapter501" href="noten_482.html" media-type="application/xhtml+xml" />
+		<item id="chapter502" href="noten_483.html" media-type="application/xhtml+xml" />
+		<item id="chapter503" href="noten_484.html" media-type="application/xhtml+xml" />
+		<item id="chapter504" href="noten_485.html" media-type="application/xhtml+xml" />
+		<item id="chapter505" href="noten_486.html" media-type="application/xhtml+xml" />
+		<item id="chapter506" href="noten_487.html" media-type="application/xhtml+xml" />
+		<item id="chapter507" href="noten_488.html" media-type="application/xhtml+xml" />
+		<item id="chapter508" href="noten_489.html" media-type="application/xhtml+xml" />
+		<item id="chapter509" href="noten_490.html" media-type="application/xhtml+xml" />
+		<item id="chapter510" href="noten_491.html" media-type="application/xhtml+xml" />
+		<item id="chapter511" href="noten_492.html" media-type="application/xhtml+xml" />
+		<item id="chapter512" href="noten_493.html" media-type="application/xhtml+xml" />
+		<item id="chapter513" href="noten_494.html" media-type="application/xhtml+xml" />
+		<item id="chapter514" href="noten_495.html" media-type="application/xhtml+xml" />
+		<item id="chapter515" href="noten_496.html" media-type="application/xhtml+xml" />
+		<item id="chapter516" href="noten_497.html" media-type="application/xhtml+xml" />
+		<item id="chapter517" href="noten_498.html" media-type="application/xhtml+xml" />
+		<item id="chapter518" href="noten_499.html" media-type="application/xhtml+xml" />
+		<item id="chapter519" href="noten_500.html" media-type="application/xhtml+xml" />
+		<item id="chapter520" href="noten_501.html" media-type="application/xhtml+xml" />
+		<item id="chapter521" href="noten_502.html" media-type="application/xhtml+xml" />
+		<item id="chapter522" href="noten_503.html" media-type="application/xhtml+xml" />
+		<item id="chapter523" href="noten_504.html" media-type="application/xhtml+xml" />
+		<item id="chapter524" href="noten_505.html" media-type="application/xhtml+xml" />
+		<item id="chapter525" href="noten_506.html" media-type="application/xhtml+xml" />
+		<item id="chapter526" href="noten_507.html" media-type="application/xhtml+xml" />
+		<item id="chapter527" href="noten_508.html" media-type="application/xhtml+xml" />
+		<item id="chapter528" href="noten_509.html" media-type="application/xhtml+xml" />
+		<item id="chapter529" href="noten_510.html" media-type="application/xhtml+xml" />
+		<item id="chapter530" href="noten_511.html" media-type="application/xhtml+xml" />
+		<item id="chapter531" href="noten_512.html" media-type="application/xhtml+xml" />
+		<item id="chapter532" href="noten_513.html" media-type="application/xhtml+xml" />
+		<item id="chapter533" href="noten_514.html" media-type="application/xhtml+xml" />
+		<item id="chapter534" href="noten_515.html" media-type="application/xhtml+xml" />
+		<item id="chapter535" href="noten_516.html" media-type="application/xhtml+xml" />
+		<item id="chapter536" href="noten_517.html" media-type="application/xhtml+xml" />
+		<item id="chapter537" href="noten_518.html" media-type="application/xhtml+xml" />
+		<item id="chapter538" href="noten_519.html" media-type="application/xhtml+xml" />
+		<item id="chapter539" href="noten_520.html" media-type="application/xhtml+xml" />
+		<item id="chapter540" href="noten_521.html" media-type="application/xhtml+xml" />
+		<item id="chapter541" href="noten_522.html" media-type="application/xhtml+xml" />
+		<item id="chapter542" href="noten_523.html" media-type="application/xhtml+xml" />
+		<item id="chapter543" href="noten_524.html" media-type="application/xhtml+xml" />
+		<item id="chapter544" href="noten_525.html" media-type="application/xhtml+xml" />
+		<item id="chapter545" href="noten_526.html" media-type="application/xhtml+xml" />
+		<item id="chapter546" href="noten_527.html" media-type="application/xhtml+xml" />
+		<item id="chapter547" href="noten_528.html" media-type="application/xhtml+xml" />
+		<item id="chapter548" href="noten_529.html" media-type="application/xhtml+xml" />
+		<item id="chapter549" href="noten_530.html" media-type="application/xhtml+xml" />
+		<item id="chapter550" href="noten_531.html" media-type="application/xhtml+xml" />
+		<item id="chapter551" href="noten_532.html" media-type="application/xhtml+xml" />
+		<item id="chapter552" href="noten_533.html" media-type="application/xhtml+xml" />
+		<item id="chapter553" href="noten_534.html" media-type="application/xhtml+xml" />
+		<item id="chapter554" href="noten_535.html" media-type="application/xhtml+xml" />
+		<item id="chapter555" href="noten_536.html" media-type="application/xhtml+xml" />
+		<item id="chapter556" href="noten_537.html" media-type="application/xhtml+xml" />
+		<item id="chapter557" href="noten_538.html" media-type="application/xhtml+xml" />
+		<item id="chapter558" href="noten_539.html" media-type="application/xhtml+xml" />
+		<item id="chapter559" href="noten_540.html" media-type="application/xhtml+xml" />
+		<item id="chapter560" href="noten_541.html" media-type="application/xhtml+xml" />
+		<item id="chapter561" href="noten_542.html" media-type="application/xhtml+xml" />
+		<item id="chapter562" href="noten_543.html" media-type="application/xhtml+xml" />
+		<item id="chapter563" href="noten_544.html" media-type="application/xhtml+xml" />
+		<item id="chapter564" href="noten_545.html" media-type="application/xhtml+xml" />
+		<item id="chapter565" href="noten_546.html" media-type="application/xhtml+xml" />
+		<item id="chapter566" href="noten_547.html" media-type="application/xhtml+xml" />
+		<item id="chapter567" href="noten_548.html" media-type="application/xhtml+xml" />
+		<item id="chapter568" href="noten_549.html" media-type="application/xhtml+xml" />
+		<item id="chapter569" href="noten_550.html" media-type="application/xhtml+xml" />
+		<item id="chapter570" href="noten_551.html" media-type="application/xhtml+xml" />
+		<item id="chapter571" href="noten_552.html" media-type="application/xhtml+xml" />
+		<item id="chapter572" href="noten_553.html" media-type="application/xhtml+xml" />
+		<item id="chapter573" href="noten_554.html" media-type="application/xhtml+xml" />
+		<item id="chapter574" href="noten_555.html" media-type="application/xhtml+xml" />
+		<item id="chapter575" href="noten_556.html" media-type="application/xhtml+xml" />
+		<item id="chapter576" href="noten_557.html" media-type="application/xhtml+xml" />
+		<item id="chapter577" href="noten_558.html" media-type="application/xhtml+xml" />
+		<item id="chapter578" href="noten_559.html" media-type="application/xhtml+xml" />
+		<item id="chapter579" href="noten_560.html" media-type="application/xhtml+xml" />
+		<item id="chapter580" href="noten_561.html" media-type="application/xhtml+xml" />
+		<item id="chapter581" href="noten_562.html" media-type="application/xhtml+xml" />
+		<item id="chapter582" href="noten_563.html" media-type="application/xhtml+xml" />
+		<item id="chapter583" href="noten_564.html" media-type="application/xhtml+xml" />
+		<item id="chapter584" href="noten_565.html" media-type="application/xhtml+xml" />
+		<item id="chapter585" href="noten_566.html" media-type="application/xhtml+xml" />
+		<item id="chapter586" href="noten_567.html" media-type="application/xhtml+xml" />
+		<item id="chapter587" href="noten_568.html" media-type="application/xhtml+xml" />
+		<item id="chapter588" href="noten_569.html" media-type="application/xhtml+xml" />
+		<item id="chapter589" href="noten_570.html" media-type="application/xhtml+xml" />
+		<item id="chapter590" href="noten_571.html" media-type="application/xhtml+xml" />
+		<item id="chapter591" href="noten_572.html" media-type="application/xhtml+xml" />
+		<item id="chapter592" href="noten_573.html" media-type="application/xhtml+xml" />
+		<item id="chapter593" href="noten_574.html" media-type="application/xhtml+xml" />
+		<item id="chapter594" href="noten_575.html" media-type="application/xhtml+xml" />
+		<item id="chapter595" href="noten_576.html" media-type="application/xhtml+xml" />
+		<item id="chapter596" href="noten_577.html" media-type="application/xhtml+xml" />
+		<item id="chapter597" href="noten_578.html" media-type="application/xhtml+xml" />
+		<item id="chapter598" href="noten_579.html" media-type="application/xhtml+xml" />
+		<item id="chapter599" href="noten_580.html" media-type="application/xhtml+xml" />
+		<item id="chapter600" href="noten_581.html" media-type="application/xhtml+xml" />
+		<item id="chapter601" href="noten_582.html" media-type="application/xhtml+xml" />
+		<item id="chapter602" href="noten_583.html" media-type="application/xhtml+xml" />
+		<item id="chapter603" href="noten_584.html" media-type="application/xhtml+xml" />
+		<item id="chapter604" href="noten_585.html" media-type="application/xhtml+xml" />
+		<item id="chapter605" href="noten_586.html" media-type="application/xhtml+xml" />
+		<item id="chapter606" href="noten_587.html" media-type="application/xhtml+xml" />
+		<item id="chapter607" href="noten_588.html" media-type="application/xhtml+xml" />
+		<item id="chapter608" href="noten_589.html" media-type="application/xhtml+xml" />
+		<item id="chapter609" href="noten_590.html" media-type="application/xhtml+xml" />
+		<item id="chapter610" href="noten_591.html" media-type="application/xhtml+xml" />
+		<item id="chapter611" href="noten_592.html" media-type="application/xhtml+xml" />
+		<item id="chapter612" href="noten_593.html" media-type="application/xhtml+xml" />
+		<item id="chapter613" href="noten_594.html" media-type="application/xhtml+xml" />
+		<item id="chapter614" href="noten_595.html" media-type="application/xhtml+xml" />
+		<item id="chapter615" href="noten_596.html" media-type="application/xhtml+xml" />
+		<item id="chapter616" href="noten_597.html" media-type="application/xhtml+xml" />
+		<item id="chapter617" href="noten_598.html" media-type="application/xhtml+xml" />
+		<item id="chapter618" href="noten_599.html" media-type="application/xhtml+xml" />
+		<item id="chapter619" href="noten_600.html" media-type="application/xhtml+xml" />
+		<item id="chapter620" href="noten_601.html" media-type="application/xhtml+xml" />
+		<item id="chapter621" href="noten_602.html" media-type="application/xhtml+xml" />
+		<item id="chapter622" href="noten_603.html" media-type="application/xhtml+xml" />
+		<item id="chapter623" href="noten_604.html" media-type="application/xhtml+xml" />
+		<item id="chapter624" href="noten_605.html" media-type="application/xhtml+xml" />
+		<item id="chapter625" href="noten_606.html" media-type="application/xhtml+xml" />
+		<item id="chapter626" href="noten_607.html" media-type="application/xhtml+xml" />
+		<item id="chapter627" href="noten_608.html" media-type="application/xhtml+xml" />
+		<item id="chapter628" href="noten_609.html" media-type="application/xhtml+xml" />
+		<item id="chapter629" href="noten_610.html" media-type="application/xhtml+xml" />
+		<item id="chapter630" href="noten_611.html" media-type="application/xhtml+xml" />
+		<item id="chapter631" href="noten_612.html" media-type="application/xhtml+xml" />
+		<item id="chapter632" href="noten_613.html" media-type="application/xhtml+xml" />
+		<item id="chapter633" href="noten_614.html" media-type="application/xhtml+xml" />
+		<item id="chapter634" href="noten_615.html" media-type="application/xhtml+xml" />
+		<item id="chapter635" href="noten_616.html" media-type="application/xhtml+xml" />
+	</manifest>
+
+	<spine toc="ncx">
+		<itemref idref="coverPage" linear="no" />
+		<itemref idref="chapter1" />
+		<itemref idref="chapter2" />
+		<itemref idref="chapter3" />
+		<itemref idref="chapter4" />
+		<itemref idref="chapter5" />
+		<itemref idref="chapter6" />
+		<itemref idref="chapter7" />
+		<itemref idref="chapter8" />
+		<itemref idref="chapter9" />
+		<itemref idref="chapter10" />
+		<itemref idref="chapter11" />
+		<itemref idref="chapter12" />
+		<itemref idref="chapter13" />
+		<itemref idref="chapter14" />
+		<itemref idref="chapter15" />
+		<itemref idref="chapter16" />
+		<itemref idref="chapter17" />
+		<itemref idref="chapter18" />
+		<itemref idref="chapter19" />
+		<itemref idref="chapter20" />
+		<itemref idref="chapter21" />
+		<itemref idref="chapter22" />
+		<itemref idref="chapter23" />
+		<itemref idref="chapter24" />
+		<itemref idref="chapter25" />
+		<itemref idref="chapter26" />
+		<itemref idref="chapter27" />
+		<itemref idref="chapter28" />
+		<itemref idref="chapter29" />
+		<itemref idref="chapter30" />
+		<itemref idref="chapter31" />
+		<itemref idref="chapter32" />
+		<itemref idref="chapter33" />
+		<itemref idref="chapter34" />
+		<itemref idref="chapter35" />
+		<itemref idref="chapter36" />
+		<itemref idref="chapter37" />
+		<itemref idref="chapter38" />
+		<itemref idref="chapter39" />
+		<itemref idref="chapter40" />
+		<itemref idref="chapter41" />
+		<itemref idref="chapter42" />
+		<itemref idref="chapter43" />
+		<itemref idref="chapter44" />
+		<itemref idref="chapter45" />
+		<itemref idref="chapter46" />
+		<itemref idref="chapter47" />
+		<itemref idref="chapter48" />
+		<itemref idref="chapter49" />
+		<itemref idref="chapter50" />
+		<itemref idref="chapter51" />
+		<itemref idref="chapter52" />
+		<itemref idref="chapter53" />
+		<itemref idref="chapter54" />
+		<itemref idref="chapter55" />
+		<itemref idref="chapter56" />
+		<itemref idref="chapter57" />
+		<itemref idref="chapter58" />
+		<itemref idref="chapter59" />
+		<itemref idref="chapter60" />
+		<itemref idref="chapter61" />
+		<itemref idref="chapter62" />
+		<itemref idref="chapter63" />
+		<itemref idref="chapter64" />
+		<itemref idref="chapter65" />
+		<itemref idref="chapter66" />
+		<itemref idref="chapter67" />
+		<itemref idref="chapter68" />
+		<itemref idref="chapter69" />
+		<itemref idref="chapter70" />
+		<itemref idref="chapter71" />
+		<itemref idref="chapter72" />
+		<itemref idref="chapter73" />
+		<itemref idref="chapter74" />
+		<itemref idref="chapter75" />
+		<itemref idref="chapter76" />
+		<itemref idref="chapter77" />
+		<itemref idref="chapter78" />
+		<itemref idref="chapter79" />
+		<itemref idref="chapter80" />
+		<itemref idref="chapter81" />
+		<itemref idref="chapter82" />
+		<itemref idref="chapter83" />
+		<itemref idref="chapter84" />
+		<itemref idref="chapter85" />
+		<itemref idref="chapter86" />
+		<itemref idref="chapter87" />
+		<itemref idref="chapter88" />
+		<itemref idref="chapter89" />
+		<itemref idref="chapter90" />
+		<itemref idref="chapter91" />
+		<itemref idref="chapter92" />
+		<itemref idref="chapter93" />
+		<itemref idref="chapter94" />
+		<itemref idref="chapter95" />
+		<itemref idref="chapter96" />
+		<itemref idref="chapter97" />
+		<itemref idref="chapter98" />
+		<itemref idref="chapter99" />
+		<itemref idref="chapter100" />
+		<itemref idref="chapter101" />
+		<itemref idref="chapter102" />
+		<itemref idref="chapter103" />
+		<itemref idref="chapter104" />
+		<itemref idref="chapter105" />
+		<itemref idref="chapter106" />
+		<itemref idref="chapter107" />
+		<itemref idref="chapter108" />
+		<itemref idref="chapter109" />
+		<itemref idref="chapter110" />
+		<itemref idref="chapter111" />
+		<itemref idref="chapter112" />
+		<itemref idref="chapter113" />
+		<itemref idref="chapter114" />
+		<itemref idref="chapter115" />
+		<itemref idref="chapter116" />
+		<itemref idref="chapter117" />
+		<itemref idref="chapter118" />
+		<itemref idref="chapter119" />
+		<itemref idref="chapter120" />
+		<itemref idref="chapter121" />
+		<itemref idref="chapter122" />
+		<itemref idref="chapter123" />
+		<itemref idref="chapter124" />
+		<itemref idref="chapter125" />
+		<itemref idref="chapter126" />
+		<itemref idref="chapter127" />
+		<itemref idref="chapter128" />
+		<itemref idref="chapter129" />
+		<itemref idref="chapter130" />
+		<itemref idref="chapter131" />
+		<itemref idref="chapter132" />
+		<itemref idref="chapter133" />
+		<itemref idref="chapter134" />
+		<itemref idref="chapter135" />
+		<itemref idref="chapter136" />
+		<itemref idref="chapter137" />
+		<itemref idref="chapter138" />
+		<itemref idref="chapter139" />
+		<itemref idref="chapter140" />
+		<itemref idref="chapter141" />
+		<itemref idref="chapter142" />
+		<itemref idref="chapter143" />
+		<itemref idref="chapter144" />
+		<itemref idref="chapter145" />
+		<itemref idref="chapter146" />
+		<itemref idref="chapter147" />
+		<itemref idref="chapter148" />
+		<itemref idref="chapter149" />
+		<itemref idref="chapter150" />
+		<itemref idref="chapter151" />
+		<itemref idref="chapter152" />
+		<itemref idref="chapter153" />
+		<itemref idref="chapter154" />
+		<itemref idref="chapter155" />
+		<itemref idref="chapter156" />
+		<itemref idref="chapter157" />
+		<itemref idref="chapter158" />
+		<itemref idref="chapter159" />
+		<itemref idref="chapter160" />
+		<itemref idref="chapter161" />
+		<itemref idref="chapter162" />
+		<itemref idref="chapter163" />
+		<itemref idref="chapter164" />
+		<itemref idref="chapter165" />
+		<itemref idref="chapter166" />
+		<itemref idref="chapter167" />
+		<itemref idref="chapter168" />
+		<itemref idref="chapter169" />
+		<itemref idref="chapter170" />
+		<itemref idref="chapter171" />
+		<itemref idref="chapter172" />
+		<itemref idref="chapter173" />
+		<itemref idref="chapter174" />
+		<itemref idref="chapter175" />
+		<itemref idref="chapter176" />
+		<itemref idref="chapter177" />
+		<itemref idref="chapter178" />
+		<itemref idref="chapter179" />
+		<itemref idref="chapter180" />
+		<itemref idref="chapter181" />
+		<itemref idref="chapter182" />
+		<itemref idref="chapter183" />
+		<itemref idref="chapter184" />
+		<itemref idref="chapter185" />
+		<itemref idref="chapter186" />
+		<itemref idref="chapter187" />
+		<itemref idref="chapter188" />
+		<itemref idref="chapter189" />
+		<itemref idref="chapter190" />
+		<itemref idref="chapter191" />
+		<itemref idref="chapter192" />
+		<itemref idref="chapter193" />
+		<itemref idref="chapter194" />
+		<itemref idref="chapter195" />
+		<itemref idref="chapter196" />
+		<itemref idref="chapter197" />
+		<itemref idref="chapter198" />
+		<itemref idref="chapter199" />
+		<itemref idref="chapter200" />
+		<itemref idref="chapter201" />
+		<itemref idref="chapter202" />
+		<itemref idref="chapter203" />
+		<itemref idref="chapter204" />
+		<itemref idref="chapter205" />
+		<itemref idref="chapter206" />
+		<itemref idref="chapter207" />
+		<itemref idref="chapter208" />
+		<itemref idref="chapter209" />
+		<itemref idref="chapter210" />
+		<itemref idref="chapter211" />
+		<itemref idref="chapter212" />
+		<itemref idref="chapter213" />
+		<itemref idref="chapter214" />
+		<itemref idref="chapter215" />
+		<itemref idref="chapter216" />
+		<itemref idref="chapter217" />
+		<itemref idref="chapter218" />
+		<itemref idref="chapter219" />
+		<itemref idref="chapter220" />
+		<itemref idref="chapter221" />
+		<itemref idref="chapter222" />
+		<itemref idref="chapter223" />
+		<itemref idref="chapter224" />
+		<itemref idref="chapter225" />
+		<itemref idref="chapter226" />
+		<itemref idref="chapter227" />
+		<itemref idref="chapter228" />
+		<itemref idref="chapter229" />
+		<itemref idref="chapter230" />
+		<itemref idref="chapter231" />
+		<itemref idref="chapter232" />
+		<itemref idref="chapter233" />
+		<itemref idref="chapter234" />
+		<itemref idref="chapter235" />
+		<itemref idref="chapter236" />
+		<itemref idref="chapter237" />
+		<itemref idref="chapter238" />
+		<itemref idref="chapter239" />
+		<itemref idref="chapter240" />
+		<itemref idref="chapter241" />
+		<itemref idref="chapter242" />
+		<itemref idref="chapter243" />
+		<itemref idref="chapter244" />
+		<itemref idref="chapter245" />
+		<itemref idref="chapter246" />
+		<itemref idref="chapter247" />
+		<itemref idref="chapter248" />
+		<itemref idref="chapter249" />
+		<itemref idref="chapter250" />
+		<itemref idref="chapter251" />
+		<itemref idref="chapter252" />
+		<itemref idref="chapter253" />
+		<itemref idref="chapter254" />
+		<itemref idref="chapter255" />
+		<itemref idref="chapter256" />
+		<itemref idref="chapter257" />
+		<itemref idref="chapter258" />
+		<itemref idref="chapter259" />
+		<itemref idref="chapter260" />
+		<itemref idref="chapter261" />
+		<itemref idref="chapter262" />
+		<itemref idref="chapter263" />
+		<itemref idref="chapter264" />
+		<itemref idref="chapter265" />
+		<itemref idref="chapter266" />
+		<itemref idref="chapter267" />
+		<itemref idref="chapter268" />
+		<itemref idref="chapter269" />
+		<itemref idref="chapter270" />
+		<itemref idref="chapter271" />
+		<itemref idref="chapter272" />
+		<itemref idref="chapter273" />
+		<itemref idref="chapter274" />
+		<itemref idref="chapter275" />
+		<itemref idref="chapter276" />
+		<itemref idref="chapter277" />
+		<itemref idref="chapter278" />
+		<itemref idref="chapter279" />
+		<itemref idref="chapter280" />
+		<itemref idref="chapter281" />
+		<itemref idref="chapter282" />
+		<itemref idref="chapter283" />
+		<itemref idref="chapter284" />
+		<itemref idref="chapter285" />
+		<itemref idref="chapter286" />
+		<itemref idref="chapter287" />
+		<itemref idref="chapter288" />
+		<itemref idref="chapter289" />
+		<itemref idref="chapter290" />
+		<itemref idref="chapter291" />
+		<itemref idref="chapter292" />
+		<itemref idref="chapter293" />
+		<itemref idref="chapter294" />
+		<itemref idref="chapter295" />
+		<itemref idref="chapter296" />
+		<itemref idref="chapter297" />
+		<itemref idref="chapter298" />
+		<itemref idref="chapter299" />
+		<itemref idref="chapter300" />
+		<itemref idref="chapter301" />
+		<itemref idref="chapter302" />
+		<itemref idref="chapter303" />
+		<itemref idref="chapter304" />
+		<itemref idref="chapter305" />
+		<itemref idref="chapter306" />
+		<itemref idref="chapter307" />
+		<itemref idref="chapter308" />
+		<itemref idref="chapter309" />
+		<itemref idref="chapter310" />
+		<itemref idref="chapter311" />
+		<itemref idref="chapter312" />
+		<itemref idref="chapter313" />
+		<itemref idref="chapter314" />
+		<itemref idref="chapter315" />
+		<itemref idref="chapter316" />
+		<itemref idref="chapter317" />
+		<itemref idref="chapter318" />
+		<itemref idref="chapter319" />
+		<itemref idref="chapter320" />
+		<itemref idref="chapter321" />
+		<itemref idref="chapter322" />
+		<itemref idref="chapter323" />
+		<itemref idref="chapter324" />
+		<itemref idref="chapter325" />
+		<itemref idref="chapter326" />
+		<itemref idref="chapter327" />
+		<itemref idref="chapter328" />
+		<itemref idref="chapter329" />
+		<itemref idref="chapter330" />
+		<itemref idref="chapter331" />
+		<itemref idref="chapter332" />
+		<itemref idref="chapter333" />
+		<itemref idref="chapter334" />
+		<itemref idref="chapter335" />
+		<itemref idref="chapter336" />
+		<itemref idref="chapter337" />
+		<itemref idref="chapter338" />
+		<itemref idref="chapter339" />
+		<itemref idref="chapter340" />
+		<itemref idref="chapter341" />
+		<itemref idref="chapter342" />
+		<itemref idref="chapter343" />
+		<itemref idref="chapter344" />
+		<itemref idref="chapter345" />
+		<itemref idref="chapter346" />
+		<itemref idref="chapter347" />
+		<itemref idref="chapter348" />
+		<itemref idref="chapter349" />
+		<itemref idref="chapter350" />
+		<itemref idref="chapter351" />
+		<itemref idref="chapter352" />
+		<itemref idref="chapter353" />
+		<itemref idref="chapter354" />
+		<itemref idref="chapter355" />
+		<itemref idref="chapter356" />
+		<itemref idref="chapter357" />
+		<itemref idref="chapter358" />
+		<itemref idref="chapter359" />
+		<itemref idref="chapter360" />
+		<itemref idref="chapter361" />
+		<itemref idref="chapter362" />
+		<itemref idref="chapter363" />
+		<itemref idref="chapter364" />
+		<itemref idref="chapter365" />
+		<itemref idref="chapter366" />
+		<itemref idref="chapter367" />
+		<itemref idref="chapter368" />
+		<itemref idref="chapter369" />
+		<itemref idref="chapter370" />
+		<itemref idref="chapter371" />
+		<itemref idref="chapter372" />
+		<itemref idref="chapter373" />
+		<itemref idref="chapter374" />
+		<itemref idref="chapter375" />
+		<itemref idref="chapter376" />
+		<itemref idref="chapter377" />
+		<itemref idref="chapter378" />
+		<itemref idref="chapter379" />
+		<itemref idref="chapter380" />
+		<itemref idref="chapter381" />
+		<itemref idref="chapter382" />
+		<itemref idref="chapter383" />
+		<itemref idref="chapter384" />
+		<itemref idref="chapter385" />
+		<itemref idref="chapter386" />
+		<itemref idref="chapter387" />
+		<itemref idref="chapter388" />
+		<itemref idref="chapter389" />
+		<itemref idref="chapter390" />
+		<itemref idref="chapter391" />
+		<itemref idref="chapter392" />
+		<itemref idref="chapter393" />
+		<itemref idref="chapter394" />
+		<itemref idref="chapter395" />
+		<itemref idref="chapter396" />
+		<itemref idref="chapter397" />
+		<itemref idref="chapter398" />
+		<itemref idref="chapter399" />
+		<itemref idref="chapter400" />
+		<itemref idref="chapter401" />
+		<itemref idref="chapter402" />
+		<itemref idref="chapter403" />
+		<itemref idref="chapter404" />
+		<itemref idref="chapter405" />
+		<itemref idref="chapter406" />
+		<itemref idref="chapter407" />
+		<itemref idref="chapter408" />
+		<itemref idref="chapter409" />
+		<itemref idref="chapter410" />
+		<itemref idref="chapter411" />
+		<itemref idref="chapter412" />
+		<itemref idref="chapter413" />
+		<itemref idref="chapter414" />
+		<itemref idref="chapter415" />
+		<itemref idref="chapter416" />
+		<itemref idref="chapter417" />
+		<itemref idref="chapter418" />
+		<itemref idref="chapter419" />
+		<itemref idref="chapter420" />
+		<itemref idref="chapter421" />
+		<itemref idref="chapter422" />
+		<itemref idref="chapter423" />
+		<itemref idref="chapter424" />
+		<itemref idref="chapter425" />
+		<itemref idref="chapter426" />
+		<itemref idref="chapter427" />
+		<itemref idref="chapter428" />
+		<itemref idref="chapter429" />
+		<itemref idref="chapter430" />
+		<itemref idref="chapter431" />
+		<itemref idref="chapter432" />
+		<itemref idref="chapter433" />
+		<itemref idref="chapter434" />
+		<itemref idref="chapter435" />
+		<itemref idref="chapter436" />
+		<itemref idref="chapter437" />
+		<itemref idref="chapter438" />
+		<itemref idref="chapter439" />
+		<itemref idref="chapter440" />
+		<itemref idref="chapter441" />
+		<itemref idref="chapter442" />
+		<itemref idref="chapter443" />
+		<itemref idref="chapter444" />
+		<itemref idref="chapter445" />
+		<itemref idref="chapter446" />
+		<itemref idref="chapter447" />
+		<itemref idref="chapter448" />
+		<itemref idref="chapter449" />
+		<itemref idref="chapter450" />
+		<itemref idref="chapter451" />
+		<itemref idref="chapter452" />
+		<itemref idref="chapter453" />
+		<itemref idref="chapter454" />
+		<itemref idref="chapter455" />
+		<itemref idref="chapter456" />
+		<itemref idref="chapter457" />
+		<itemref idref="chapter458" />
+		<itemref idref="chapter459" />
+		<itemref idref="chapter460" />
+		<itemref idref="chapter461" />
+		<itemref idref="chapter462" />
+		<itemref idref="chapter463" />
+		<itemref idref="chapter464" />
+		<itemref idref="chapter465" />
+		<itemref idref="chapter466" />
+		<itemref idref="chapter467" />
+		<itemref idref="chapter468" />
+		<itemref idref="chapter469" />
+		<itemref idref="chapter470" />
+		<itemref idref="chapter471" />
+		<itemref idref="chapter472" />
+		<itemref idref="chapter473" />
+		<itemref idref="chapter474" />
+		<itemref idref="chapter475" />
+		<itemref idref="chapter476" />
+		<itemref idref="chapter477" />
+		<itemref idref="chapter478" />
+		<itemref idref="chapter479" />
+		<itemref idref="chapter480" />
+		<itemref idref="chapter481" />
+		<itemref idref="chapter482" />
+		<itemref idref="chapter483" />
+		<itemref idref="chapter484" />
+		<itemref idref="chapter485" />
+		<itemref idref="chapter486" />
+		<itemref idref="chapter487" />
+		<itemref idref="chapter488" />
+		<itemref idref="chapter489" />
+		<itemref idref="chapter490" />
+		<itemref idref="chapter491" />
+		<itemref idref="chapter492" />
+		<itemref idref="chapter493" />
+		<itemref idref="chapter494" />
+		<itemref idref="chapter495" />
+		<itemref idref="chapter496" />
+		<itemref idref="chapter497" />
+		<itemref idref="chapter498" />
+		<itemref idref="chapter499" />
+		<itemref idref="chapter500" />
+		<itemref idref="chapter501" />
+		<itemref idref="chapter502" />
+		<itemref idref="chapter503" />
+		<itemref idref="chapter504" />
+		<itemref idref="chapter505" />
+		<itemref idref="chapter506" />
+		<itemref idref="chapter507" />
+		<itemref idref="chapter508" />
+		<itemref idref="chapter509" />
+		<itemref idref="chapter510" />
+		<itemref idref="chapter511" />
+		<itemref idref="chapter512" />
+		<itemref idref="chapter513" />
+		<itemref idref="chapter514" />
+		<itemref idref="chapter515" />
+		<itemref idref="chapter516" />
+		<itemref idref="chapter517" />
+		<itemref idref="chapter518" />
+		<itemref idref="chapter519" />
+		<itemref idref="chapter520" />
+		<itemref idref="chapter521" />
+		<itemref idref="chapter522" />
+		<itemref idref="chapter523" />
+		<itemref idref="chapter524" />
+		<itemref idref="chapter525" />
+		<itemref idref="chapter526" />
+		<itemref idref="chapter527" />
+		<itemref idref="chapter528" />
+		<itemref idref="chapter529" />
+		<itemref idref="chapter530" />
+		<itemref idref="chapter531" />
+		<itemref idref="chapter532" />
+		<itemref idref="chapter533" />
+		<itemref idref="chapter534" />
+		<itemref idref="chapter535" />
+		<itemref idref="chapter536" />
+		<itemref idref="chapter537" />
+		<itemref idref="chapter538" />
+		<itemref idref="chapter539" />
+		<itemref idref="chapter540" />
+		<itemref idref="chapter541" />
+		<itemref idref="chapter542" />
+		<itemref idref="chapter543" />
+		<itemref idref="chapter544" />
+		<itemref idref="chapter545" />
+		<itemref idref="chapter546" />
+		<itemref idref="chapter547" />
+		<itemref idref="chapter548" />
+		<itemref idref="chapter549" />
+		<itemref idref="chapter550" />
+		<itemref idref="chapter551" />
+		<itemref idref="chapter552" />
+		<itemref idref="chapter553" />
+		<itemref idref="chapter554" />
+		<itemref idref="chapter555" />
+		<itemref idref="chapter556" />
+		<itemref idref="chapter557" />
+		<itemref idref="chapter558" />
+		<itemref idref="chapter559" />
+		<itemref idref="chapter560" />
+		<itemref idref="chapter561" />
+		<itemref idref="chapter562" />
+		<itemref idref="chapter563" />
+		<itemref idref="chapter564" />
+		<itemref idref="chapter565" />
+		<itemref idref="chapter566" />
+		<itemref idref="chapter567" />
+		<itemref idref="chapter568" />
+		<itemref idref="chapter569" />
+		<itemref idref="chapter570" />
+		<itemref idref="chapter571" />
+		<itemref idref="chapter572" />
+		<itemref idref="chapter573" />
+		<itemref idref="chapter574" />
+		<itemref idref="chapter575" />
+		<itemref idref="chapter576" />
+		<itemref idref="chapter577" />
+		<itemref idref="chapter578" />
+		<itemref idref="chapter579" />
+		<itemref idref="chapter580" />
+		<itemref idref="chapter581" />
+		<itemref idref="chapter582" />
+		<itemref idref="chapter583" />
+		<itemref idref="chapter584" />
+		<itemref idref="chapter585" />
+		<itemref idref="chapter586" />
+		<itemref idref="chapter587" />
+		<itemref idref="chapter588" />
+		<itemref idref="chapter589" />
+		<itemref idref="chapter590" />
+		<itemref idref="chapter591" />
+		<itemref idref="chapter592" />
+		<itemref idref="chapter593" />
+		<itemref idref="chapter594" />
+		<itemref idref="chapter595" />
+		<itemref idref="chapter596" />
+		<itemref idref="chapter597" />
+		<itemref idref="chapter598" />
+		<itemref idref="chapter599" />
+		<itemref idref="chapter600" />
+		<itemref idref="chapter601" />
+		<itemref idref="chapter602" />
+		<itemref idref="chapter603" />
+		<itemref idref="chapter604" />
+		<itemref idref="chapter605" />
+		<itemref idref="chapter606" />
+		<itemref idref="chapter607" />
+		<itemref idref="chapter608" />
+		<itemref idref="chapter609" />
+		<itemref idref="chapter610" />
+		<itemref idref="chapter611" />
+		<itemref idref="chapter612" />
+		<itemref idref="chapter613" />
+		<itemref idref="chapter614" />
+		<itemref idref="chapter615" />
+		<itemref idref="chapter616" />
+		<itemref idref="chapter617" />
+		<itemref idref="chapter618" />
+		<itemref idref="chapter619" />
+		<itemref idref="chapter620" />
+		<itemref idref="chapter621" />
+		<itemref idref="chapter622" />
+		<itemref idref="chapter623" />
+		<itemref idref="chapter624" />
+		<itemref idref="chapter625" />
+		<itemref idref="chapter626" />
+		<itemref idref="chapter627" />
+		<itemref idref="chapter628" />
+		<itemref idref="chapter629" />
+		<itemref idref="chapter630" />
+		<itemref idref="chapter631" />
+		<itemref idref="chapter632" />
+		<itemref idref="chapter633" />
+		<itemref idref="chapter634" />
+		<itemref idref="chapter635" />
+	</spine>
+
+	<guide>
+		<reference href="CoverPage.html" type="cover" title="coverPage"/>
+	</guide>
+</package>
